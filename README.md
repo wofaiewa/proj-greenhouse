@@ -1,6 +1,7 @@
 # proj-greenhouse
 Automated greenhouse monitoring system using Viam, ESP32 sensors, FLIR thermal rig, and DJI Mini 4 Pro.
 
+# Greenhouse Monitoring System (Sub-$1k Build)
 ## Overview
 This is a learning project to master the [Viam robotics platform](https://www.viam.com/) while building a practical automated greenhouse monitoring system. The system combines distributed sensor nodes, a thermal imaging rig, and a DJI Mini 4 Pro drone to detect plant stress, operate offline-first, and coordinate multiple machines.
 
