@@ -10,11 +10,11 @@ This is a learning project to master the [Viam robotics platform](https://www.vi
 - **Offline-first**: Pi hosts local Wi-Fi AP, devices sync when cloud is available
 
 ## Development Timeline
-- **Month 1**: Sensor network foundation
-- **Month 2**: Data pipeline & thresholds
-- **Month 3**: Drone integration (RGB)
-- **Month 4**: Automation & coordination
-- **Month 5**: Testing, refinement, final demo
+- **Phase 1**: Sensor network foundation
+- **Phase 2**: Data pipeline & thresholds
+- **Phase 3**: Drone integration (RGB)
+- **Phase 4**: Automation & coordination
+- **Phase 5**: Testing, refinement, final demo
 
 ## Goals
 - Operate with poor/no internet
