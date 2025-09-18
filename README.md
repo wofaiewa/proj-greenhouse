@@ -23,11 +23,11 @@ This is a learning project to master the [Viam robotics platform](https://www.vi
 - Document and share the entire build process
 
 ## Repo Structure
-/docs → diagrams, design docs, BOM, engineering log
-/firmware → ESP32 MicroPython code
-/pi → Raspberry Pi Flask bridge, DB schemas
-/android → Android MSDK client snippets
-/data → sample logs, exports, test datasets
+```/docs → diagrams, design docs, BOM, engineering log```
+```/firmware → ESP32 MicroPython code```
+```/pi → Raspberry Pi Flask bridge, DB schemas```
+```/android → Android MSDK client snippets```
+```/data → sample logs, exports, test datasets```
 
 ## Engineering Log
 See `/docs/engineering-log.md` for daily progress.
